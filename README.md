@@ -2,9 +2,13 @@
 
 Statisk website med pointoversigt for klubbens fire hold.
 
+**👉 [Se siden live](https://larsstaalm.github.io/harekaer-danmarksturneringen/)**
+
 ## Åbn sitet
 
 Åbn `index.html` direkte i en browser. Ingen server eller build-værktøjer nødvendige.
+
+Siden udgives automatisk via GitHub Pages fra `main`-branchen.
 
 ## Filer
 
