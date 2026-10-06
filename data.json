@@ -1,0 +1,2142 @@
+[
+  {
+    "id": 5361058,
+    "label": "1. hold",
+    "poolName": "Pulje 3",
+    "teamName": "Harekær",
+    "standings": [
+      {
+        "name": "Harekær",
+        "position": 1,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 45,
+        "score": "45 - 27",
+        "isHarekaer": true
+      },
+      {
+        "name": "Greve",
+        "position": 2,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 45.5,
+        "score": "45.5 - 26.5",
+        "isHarekaer": false
+      },
+      {
+        "name": "Trelleborg",
+        "position": 3,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 45,
+        "score": "45 - 27",
+        "isHarekaer": false
+      },
+      {
+        "name": "Køge",
+        "position": 4,
+        "played": 6,
+        "wins": 0,
+        "losses": 6,
+        "draws": 0,
+        "teamPoints": 0,
+        "matchPoints": 8.5,
+        "score": "8.5 - 63.5",
+        "isHarekaer": false
+      }
+    ],
+    "matches": [
+      {
+        "date": "20260530",
+        "home": "Greve",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Greve",
+        "hkScore": 4.5,
+        "oppScore": 7.5,
+        "resultText": "7.5 - 4.5",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Jesper Bangsgaard"
+            ],
+            "opponents": [
+              "Jesper Rundkvist"
+            ],
+            "scoreText": "5&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jesper Martin Jensen"
+            ],
+            "opponents": [
+              "Tonny Hansen"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Steffensen"
+            ],
+            "opponents": [
+              "Mads Andersen"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Mathias Pico Sørensen",
+              "Christian Skou Rasmussen"
+            ],
+            "opponents": [
+              "Jakob Stender Hartington",
+              "Lukas Vittov Schønemann"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Peter Malmos",
+              "Daniel Hansen"
+            ],
+            "opponents": [
+              "Jonas Horsner",
+              "Klaes Hagelberg"
+            ],
+            "scoreText": "3&1",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260531",
+        "home": "Køge",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Køge",
+        "hkScore": 9,
+        "oppScore": 3,
+        "resultText": "3 - 9",
+        "outcome": "won",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Jesper Bangsgaard"
+            ],
+            "opponents": [
+              "Emil Boye Bank"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jesper Martin Jensen"
+            ],
+            "opponents": [
+              "Luca Larsen"
+            ],
+            "scoreText": "7&5",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Steffensen"
+            ],
+            "opponents": [
+              "Magnus Bodholt"
+            ],
+            "scoreText": "4&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Peter Malmos",
+              "Daniel Hansen"
+            ],
+            "opponents": [
+              "Tobias Poulsen",
+              "Mikkel Brandt Sørensen"
+            ],
+            "scoreText": "4&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Mathias Pico Sørensen",
+              "Christian Skou Rasmussen"
+            ],
+            "opponents": [
+              "Thomas Konstantin Jensen",
+              "Nikolaj Dittmann Nielsen"
+            ],
+            "scoreText": "5&4",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260620",
+        "home": "Harekær",
+        "away": "Trelleborg",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 3.5,
+        "oppScore": 8.5,
+        "resultText": "8.5 - 3.5",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Jesper Bangsgaard"
+            ],
+            "opponents": [
+              "Niclas Normann"
+            ],
+            "scoreText": "2&1",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Peter Malmos"
+            ],
+            "opponents": [
+              "Patrick Andersen"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Steffensen"
+            ],
+            "opponents": [
+              "Magnus Kofoed Madsen"
+            ],
+            "scoreText": "7&5",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Mathias Pico Sørensen",
+              "Christian Skou Rasmussen"
+            ],
+            "opponents": [
+              "Mikkel Strøm",
+              "Emil Stengade"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Jesper Martin Jensen",
+              "Patrick Dam Schou"
+            ],
+            "opponents": [
+              "William Sonne Christensen",
+              "Mathias Jellinghof"
+            ],
+            "scoreText": "5&4",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260621",
+        "home": "Harekær",
+        "away": "Greve",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 2,
+        "oppScore": 10,
+        "resultText": "10 - 2",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Jesper Bangsgaard"
+            ],
+            "opponents": [
+              "Jonas Horsner"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jesper Martin Jensen"
+            ],
+            "opponents": [
+              "Tonny Hansen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Steffensen"
+            ],
+            "opponents": [
+              "Lukas Vittov Schønemann"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Patrick Dam Schou",
+              "Peter Malmos"
+            ],
+            "opponents": [
+              "Klaes Hagelberg",
+              "Mads Andersen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Mathias Pico Sørensen",
+              "Christian Skou Rasmussen"
+            ],
+            "opponents": [
+              "Jesper Rundkvist",
+              "Jakob Stender Hartington"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260808",
+        "home": "Harekær",
+        "away": "Køge",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 1,
+        "oppScore": 11,
+        "resultText": "11 - 1",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Jesper Bangsgaard"
+            ],
+            "opponents": [
+              "Luca Larsen"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jesper Martin Jensen"
+            ],
+            "opponents": [
+              "Niels Christian Cederstrøm"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Steffensen"
+            ],
+            "opponents": [
+              "Frederik Vincents"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Patrick Dam Schou",
+              "Peter Malmos"
+            ],
+            "opponents": [
+              "Tobias Poulsen",
+              "Emil Boye Bank"
+            ],
+            "scoreText": "5&4",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Mathias Pico Sørensen",
+              "Christian Skou Rasmussen"
+            ],
+            "opponents": [
+              "Nikolaj Dittmann Nielsen",
+              "Thomas Konstantin Jensen"
+            ],
+            "scoreText": "8&7",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260809",
+        "home": "Trelleborg",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Trelleborg",
+        "hkScore": 2,
+        "oppScore": 10,
+        "resultText": "10 - 2",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Jesper Martin Jensen"
+            ],
+            "opponents": [
+              "Silas Bayer Frederiksen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Steffensen"
+            ],
+            "opponents": [
+              "Patrick Andersen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Steffen Alvang"
+            ],
+            "opponents": [
+              "Magnus Kofoed Madsen"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Mathias Pico Sørensen",
+              "Christian Skou Rasmussen"
+            ],
+            "opponents": [
+              "Niclas Normann",
+              "Emil Stengade"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Peter Malmos",
+              "Patrick Dam Schou"
+            ],
+            "opponents": [
+              "William Sonne Christensen",
+              "Mikkel Strøm"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5361157,
+    "label": "2. hold",
+    "poolName": "Pulje 4",
+    "teamName": "Harekær",
+    "standings": [
+      {
+        "name": "Køge",
+        "position": 1,
+        "played": 6,
+        "wins": 5,
+        "losses": 0,
+        "draws": 1,
+        "teamPoints": 11,
+        "matchPoints": 53,
+        "score": "53 - 19",
+        "isHarekaer": false
+      },
+      {
+        "name": "Greve",
+        "position": 2,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 40,
+        "score": "40 - 32",
+        "isHarekaer": false
+      },
+      {
+        "name": "Harekær",
+        "position": 3,
+        "played": 6,
+        "wins": 2,
+        "losses": 3,
+        "draws": 1,
+        "teamPoints": 5,
+        "matchPoints": 30.5,
+        "score": "30.5 - 41.5",
+        "isHarekaer": true
+      },
+      {
+        "name": "Skovbo",
+        "position": 4,
+        "played": 6,
+        "wins": 0,
+        "losses": 6,
+        "draws": 0,
+        "teamPoints": 0,
+        "matchPoints": 20.5,
+        "score": "20.5 - 51.5",
+        "isHarekaer": false
+      }
+    ],
+    "matches": [
+      {
+        "date": "20260530",
+        "home": "Greve",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Greve",
+        "hkScore": 0,
+        "oppScore": 12,
+        "resultText": "12 - 0",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Erik Sommer"
+            ],
+            "opponents": [
+              "Thomas Borker Johansen"
+            ],
+            "scoreText": "3&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Thomas Hansen"
+            ],
+            "opponents": [
+              "Tobias Olsen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Lars Folden"
+            ],
+            "opponents": [
+              "Kasper Andersen"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Nick Ihler Madsen",
+              "Jesper Wraae-Bess"
+            ],
+            "opponents": [
+              "Mikkel Friis",
+              "Mathias Johansen"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Søren Molander",
+              "Christian Patrunch"
+            ],
+            "opponents": [
+              "Jannik Eriksen",
+              "Mikkel Angermann"
+            ],
+            "scoreText": "3&2",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260531",
+        "home": "Køge",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Køge",
+        "hkScore": 3,
+        "oppScore": 9,
+        "resultText": "9 - 3",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Erik Sommer"
+            ],
+            "opponents": [
+              "Ole Glimø"
+            ],
+            "scoreText": "6&5",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Kristian F. Jensen"
+            ],
+            "opponents": [
+              "Jonas Therkildsen"
+            ],
+            "scoreText": "9&7",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Thomas Hansen"
+            ],
+            "opponents": [
+              "Anders Steen Hansen"
+            ],
+            "scoreText": "7&6",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Søren Molander",
+              "Christian Patrunch"
+            ],
+            "opponents": [
+              "Anders Hvid",
+              "Søren Stryger"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Folden",
+              "Jesper Wraae-Bess"
+            ],
+            "opponents": [
+              "Klaus Lundgren",
+              "Lukas Lundgren Graversen"
+            ],
+            "scoreText": "2&1",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260620",
+        "home": "Harekær",
+        "away": "Skovbo",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 2,
+        "oppScore": 10,
+        "resultText": "10 - 2",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Kristian F. Jensen"
+            ],
+            "opponents": [
+              "Thomas Torø Pedersen"
+            ],
+            "scoreText": "8&6",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Sommer"
+            ],
+            "opponents": [
+              "Jørgen Slot"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Patrunch"
+            ],
+            "opponents": [
+              "Jesper Hartmann Ulriksen"
+            ],
+            "scoreText": "7&6",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Kim Green Olesen",
+              "Daniel Hansen"
+            ],
+            "opponents": [
+              "Bjarne Hein-Nielsen",
+              "Carl Printz"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Jesper Wraae-Bess",
+              "Lars Folden"
+            ],
+            "opponents": [
+              "Lasse Høyer",
+              "Magnus Kjærsgaard Petersen"
+            ],
+            "scoreText": "2&1",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260621",
+        "home": "Harekær",
+        "away": "Greve",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 7,
+        "oppScore": 5,
+        "resultText": "5 - 7",
+        "outcome": "won",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Kristian F. Jensen"
+            ],
+            "opponents": [
+              "Thomas Borker Johansen"
+            ],
+            "scoreText": "5&4",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Erik Sommer"
+            ],
+            "opponents": [
+              "Tobias Olsen"
+            ],
+            "scoreText": "4&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Patrunch"
+            ],
+            "opponents": [
+              "Mark Budtz Andersen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Jesper Wraae-Bess",
+              "Lars Folden"
+            ],
+            "opponents": [
+              "Mathias Johansen",
+              "Mikkel Friis"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Kim Green Olesen",
+              "Daniel Hansen"
+            ],
+            "opponents": [
+              "Jannik Eriksen",
+              "Mikkel Angermann"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260808",
+        "home": "Harekær",
+        "away": "Køge",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 6,
+        "oppScore": 6,
+        "resultText": "6 - 6",
+        "outcome": "halved",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Erik Sommer"
+            ],
+            "opponents": [
+              "Johnny Krog"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Patrunch"
+            ],
+            "opponents": [
+              "Anders Steen Hansen"
+            ],
+            "scoreText": "3&2",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Steffen Alvang"
+            ],
+            "opponents": [
+              "Jonas Therkildsen"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Jesper Wraae-Bess",
+              "Lars Folden"
+            ],
+            "opponents": [
+              "Lukas Lundgren Graversen",
+              "Mads Holm Kristensen"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Kim Green Olesen",
+              "Daniel Hansen"
+            ],
+            "opponents": [
+              "Claus Bilberg Danielsen",
+              "Klaus Lundgren"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260809",
+        "home": "Skovbo",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Skovbo",
+        "hkScore": 6.5,
+        "oppScore": 5.5,
+        "resultText": "5.5 - 6.5",
+        "outcome": "won",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Erik Sommer"
+            ],
+            "opponents": [
+              "Jørgen Slot"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "single",
+            "players": [
+              "Nick Ihler Madsen"
+            ],
+            "opponents": [
+              "Magnus Kjærsgaard Petersen"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Patrunch"
+            ],
+            "opponents": [
+              "Jesper Hartmann Ulriksen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Folden",
+              "Jesper Wraae-Bess"
+            ],
+            "opponents": [
+              "Bjarne Hein-Nielsen",
+              "Mathias Skjold Jensen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Daniel Hansen",
+              "Kim Green Olesen"
+            ],
+            "opponents": [
+              "Thomas Torø Pedersen",
+              "Brian Skov Thorsted"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5361479,
+    "label": "3. hold",
+    "poolName": "Pulje 5",
+    "teamName": "Harekær",
+    "standings": [
+      {
+        "name": "Vallø",
+        "position": 1,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 45,
+        "score": "45 - 27",
+        "isHarekaer": false
+      },
+      {
+        "name": "Harekær",
+        "position": 2,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "draws": 0,
+        "teamPoints": 6,
+        "matchPoints": 32,
+        "score": "32 - 40",
+        "isHarekaer": true
+      },
+      {
+        "name": "CGC",
+        "position": 3,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "draws": 0,
+        "teamPoints": 6,
+        "matchPoints": 36,
+        "score": "36 - 36",
+        "isHarekaer": false
+      },
+      {
+        "name": "Køge",
+        "position": 4,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "draws": 0,
+        "teamPoints": 4,
+        "matchPoints": 31,
+        "score": "31 - 41",
+        "isHarekaer": false
+      }
+    ],
+    "matches": [
+      {
+        "date": "20260530",
+        "home": "CGC",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "CGC",
+        "hkScore": 3.5,
+        "oppScore": 8.5,
+        "resultText": "8.5 - 3.5",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Rasmus Hugo Jensen"
+            ],
+            "opponents": [
+              "Eysteinn Thorri Bjorgvinsson"
+            ],
+            "scoreText": "5&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Robert Rathsach"
+            ],
+            "opponents": [
+              "Jonas Holmgaard"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Kristian F. Jensen"
+            ],
+            "opponents": [
+              "Anders Lassen"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Staal Møller",
+              "Andreas Jepsen"
+            ],
+            "opponents": [
+              "Frederik Hilstrøm",
+              "Jens Torp Larsen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Rene Frandsen",
+              "Martin Johansen"
+            ],
+            "opponents": [
+              "Kari Eldjarn Thorsteinsson",
+              "Pétur Örn Sigurbjörnsson"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260531",
+        "home": "Køge",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Køge",
+        "hkScore": 2,
+        "oppScore": 10,
+        "resultText": "10 - 2",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Rasmus Hugo Jensen"
+            ],
+            "opponents": [
+              "Lars Olesen"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Robert Rathsach"
+            ],
+            "opponents": [
+              "Michael Pedersen"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Marc Bodal"
+            ],
+            "opponents": [
+              "Mikkel Berg Nielsen"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Staal Møller",
+              "Andreas Jepsen"
+            ],
+            "opponents": [
+              "Karsten Klint Jensen",
+              "Jesper Bressendorff"
+            ],
+            "scoreText": "5&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Rene Frandsen",
+              "Martin Johansen"
+            ],
+            "opponents": [
+              "Frederik Bressendorff",
+              "Klemme Sigvald Madsen"
+            ],
+            "scoreText": "7&6",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260620",
+        "home": "Harekær",
+        "away": "Vallø",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 5,
+        "oppScore": 7,
+        "resultText": "7 - 5",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Martin Johansen"
+            ],
+            "opponents": [
+              "Martin Gandløse"
+            ],
+            "scoreText": "4&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Andreas Jepsen"
+            ],
+            "opponents": [
+              "Kenneth Andersen"
+            ],
+            "scoreText": "4&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Marc Bodal"
+            ],
+            "opponents": [
+              "Magnus Mortensen"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Rene Frandsen",
+              "Nikolai Braykov"
+            ],
+            "opponents": [
+              "Ivan Gress",
+              "Tristan Ullerup"
+            ],
+            "scoreText": "4&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Staal Møller",
+              "Rasmus Hugo Jensen"
+            ],
+            "opponents": [
+              "Jesper Freund",
+              "Mikkel Nielsen"
+            ],
+            "scoreText": "3&1",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260621",
+        "home": "Harekær",
+        "away": "CGC",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 3,
+        "oppScore": 9,
+        "resultText": "9 - 3",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Nikolai Braykov"
+            ],
+            "opponents": [
+              "Eysteinn Thorri Bjorgvinsson"
+            ],
+            "scoreText": "2&1",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Martin Johansen"
+            ],
+            "opponents": [
+              "Adam Capindale"
+            ],
+            "scoreText": "3&1",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Rene Frandsen"
+            ],
+            "opponents": [
+              "Pétur Örn Sigurbjörnsson"
+            ],
+            "scoreText": "3&1",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Andreas Jepsen",
+              "Morten Jepsen"
+            ],
+            "opponents": [
+              "Steinn Thorkelsson",
+              "Kari Eldjarn Thorsteinsson"
+            ],
+            "scoreText": "4&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Staal Møller",
+              "Rasmus Hugo Jensen"
+            ],
+            "opponents": [
+              "Jens Torp Larsen",
+              "Frederik Hilstrøm"
+            ],
+            "scoreText": "3&2",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260808",
+        "home": "Harekær",
+        "away": "Køge",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 3.5,
+        "oppScore": 8.5,
+        "resultText": "8.5 - 3.5",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Marc Bodal"
+            ],
+            "opponents": [
+              "Klemme Sigvald Madsen"
+            ],
+            "scoreText": "7&6",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Søren Molander"
+            ],
+            "opponents": [
+              "Michael Pedersen"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Nick Ihler Madsen"
+            ],
+            "opponents": [
+              "Frederik Bressendorff"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Staal Møller",
+              "Thomas Hansen"
+            ],
+            "opponents": [
+              "Jesper Bressendorff",
+              "Karsten Klint Jensen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Rene Frandsen",
+              "Robert Rathsach"
+            ],
+            "opponents": [
+              "Simon Deleuran Næsager",
+              "Søren Deleuran"
+            ],
+            "scoreText": "7&6",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260809",
+        "home": "Vallø",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Vallø",
+        "hkScore": 2,
+        "oppScore": 10,
+        "resultText": "10 - 2",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Martin Johansen"
+            ],
+            "opponents": [
+              "Jesper Freund"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Andreas Jepsen"
+            ],
+            "opponents": [
+              "Michael Holm"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Søren Molander"
+            ],
+            "opponents": [
+              "Tommy Østergaard"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Lars Staal Møller",
+              "Thomas Hansen"
+            ],
+            "opponents": [
+              "Mads Ipsen",
+              "Mikkel Nielsen"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Robert Rathsach",
+              "Rene Frandsen"
+            ],
+            "opponents": [
+              "Ivan Gress",
+              "Tristan Ullerup"
+            ],
+            "scoreText": "3&2",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5368054,
+    "label": "Senior hold",
+    "poolName": "Pulje 2",
+    "teamName": "Harekær",
+    "standings": [
+      {
+        "name": "Ishøj",
+        "position": 1,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 50.5,
+        "score": "50.5 - 27.5",
+        "isHarekaer": false
+      },
+      {
+        "name": "Køge",
+        "position": 2,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "draws": 0,
+        "teamPoints": 8,
+        "matchPoints": 41.5,
+        "score": "41.5 - 36.5",
+        "isHarekaer": false
+      },
+      {
+        "name": "Harekær",
+        "position": 3,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "draws": 0,
+        "teamPoints": 4,
+        "matchPoints": 32,
+        "score": "32 - 46",
+        "isHarekaer": true
+      },
+      {
+        "name": "Dragør",
+        "position": 4,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "draws": 0,
+        "teamPoints": 4,
+        "matchPoints": 32,
+        "score": "32 - 46",
+        "isHarekaer": false
+      }
+    ],
+    "matches": [
+      {
+        "date": "20260530",
+        "home": "Køge",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Køge",
+        "hkScore": 1,
+        "oppScore": 12,
+        "resultText": "12 - 1",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Tina Skou Larsen"
+            ],
+            "opponents": [
+              "Hanne  Romlund Taylor"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Eske Kofoed"
+            ],
+            "opponents": [
+              "Nikolaj Larsen"
+            ],
+            "scoreText": "6&5",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jens Anker Buus Andersen"
+            ],
+            "opponents": [
+              "Kenneth Millard"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Nielsen"
+            ],
+            "opponents": [
+              "Michael Randers"
+            ],
+            "scoreText": "1 Hole",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Johnny Eksing"
+            ],
+            "opponents": [
+              "Thomas Toft"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Katrine Bak",
+              "Klaus Espersen"
+            ],
+            "opponents": [
+              "Mette Sander Zacho",
+              "Henrik Zacho"
+            ],
+            "scoreText": "3&2",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260531",
+        "home": "Dragør",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Dragør",
+        "hkScore": 9,
+        "oppScore": 4,
+        "resultText": "4 - 9",
+        "outcome": "won",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Tina Skou Larsen"
+            ],
+            "opponents": [
+              "Gitte Therkelsen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Henrik Jørgensen"
+            ],
+            "opponents": [
+              "Erik Krogsgaard Larsen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jens Anker Buus Andersen"
+            ],
+            "opponents": [
+              "Morten Simonsen"
+            ],
+            "scoreText": "1 Hole",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Nielsen"
+            ],
+            "opponents": [
+              "Christian Julin Markenfeldt"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Johnny Eksing"
+            ],
+            "opponents": [
+              "Klaus Eilstrup Seierøe"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Katrine Bak",
+              "Klaus Espersen"
+            ],
+            "opponents": [
+              "Birgitte Woolridge",
+              "Richard John Woolridge"
+            ],
+            "scoreText": "3&2",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260620",
+        "home": "Harekær",
+        "away": "Ishøj",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 7,
+        "oppScore": 6,
+        "resultText": "6 - 7",
+        "outcome": "won",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Tina Skou Larsen"
+            ],
+            "opponents": [
+              "Trine Kirkegaard"
+            ],
+            "scoreText": "4&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jens Anker Buus Andersen"
+            ],
+            "opponents": [
+              "Mika Hamalainen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "single",
+            "players": [
+              "Michael”Mickey” Pedersen"
+            ],
+            "opponents": [
+              "Paw Vad"
+            ],
+            "scoreText": "5&4",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Nielsen"
+            ],
+            "opponents": [
+              "Ole Märcher"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Johnny Eksing"
+            ],
+            "opponents": [
+              "Claus Jensen"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Katrine Bak",
+              "Klaus Espersen"
+            ],
+            "opponents": [
+              "Inge-Merete Kærgaard",
+              "Kent Kølvig"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "date": "20260621",
+        "home": "Harekær",
+        "away": "Køge",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 7,
+        "oppScore": 6,
+        "resultText": "6 - 7",
+        "outcome": "won",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Tina Skou Larsen"
+            ],
+            "opponents": [
+              "Pia Jespersen"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jens Anker Buus Andersen"
+            ],
+            "opponents": [
+              "Johnny Krog"
+            ],
+            "scoreText": "5&4",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Michael”Mickey” Pedersen"
+            ],
+            "opponents": [
+              "Kenneth Millard"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Nielsen"
+            ],
+            "opponents": [
+              "Michael Randers"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Johnny Eksing"
+            ],
+            "opponents": [
+              "Thomas Toft"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Katrine Bak",
+              "Klaus Espersen"
+            ],
+            "opponents": [
+              "Mette Sander Zacho",
+              "Nikolaj Larsen"
+            ],
+            "scoreText": "3&1",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260808",
+        "home": "Harekær",
+        "away": "Dragør",
+        "isHome": false,
+        "opponent": "Harekær",
+        "hkScore": 4,
+        "oppScore": 9,
+        "resultText": "9 - 4",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Tina Skou Larsen"
+            ],
+            "opponents": [
+              "Gitte Therkelsen"
+            ],
+            "scoreText": "6&5",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jens Anker Buus Andersen"
+            ],
+            "opponents": [
+              "Erik Krogsgaard Larsen"
+            ],
+            "scoreText": "2&1",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "single",
+            "players": [
+              "Johnny Eksing"
+            ],
+            "opponents": [
+              "Morten Simonsen"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Henrik Jørgensen"
+            ],
+            "opponents": [
+              "Flemming Bond"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Christian Nielsen"
+            ],
+            "opponents": [
+              "Christian Julin Markenfeldt"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Katrine Bak",
+              "Klaus Espersen"
+            ],
+            "opponents": [
+              "Lisbeth Jørgensen",
+              "Klaus Eilstrup Seierøe"
+            ],
+            "scoreText": "4&3",
+            "result": "won",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "date": "20260809",
+        "home": "Ishøj",
+        "away": "Harekær",
+        "isHome": false,
+        "opponent": "Ishøj",
+        "hkScore": 1,
+        "oppScore": 12,
+        "resultText": "12 - 1",
+        "outcome": "lost",
+        "games": [
+          {
+            "format": "single",
+            "players": [
+              "Tina Skou Larsen"
+            ],
+            "opponents": [
+              "Trine Kirkegaard"
+            ],
+            "scoreText": "3&2",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Eske Kofoed"
+            ],
+            "opponents": [
+              "Ole Märcher"
+            ],
+            "scoreText": "5&3",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Jens Anker Buus Andersen"
+            ],
+            "opponents": [
+              "Mika Hamalainen"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "single",
+            "players": [
+              "Johnny Eksing"
+            ],
+            "opponents": [
+              "Paw Vad"
+            ],
+            "scoreText": "Halved",
+            "result": "halved",
+            "points": 1
+          },
+          {
+            "format": "single",
+            "players": [
+              "Henrik Jørgensen"
+            ],
+            "opponents": [
+              "Claus Jensen"
+            ],
+            "scoreText": "2&1",
+            "result": "lost",
+            "points": 0
+          },
+          {
+            "format": "foursome",
+            "players": [
+              "Katrine Bak",
+              "Klaus Espersen"
+            ],
+            "opponents": [
+              "Lone P. Forsberg",
+              "Kent Galsgård Kølvig"
+            ],
+            "scoreText": "2 Holes",
+            "result": "lost",
+            "points": 0
+          }
+        ]
+      }
+    ]
+  }
+]

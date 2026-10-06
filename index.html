@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harekær Golfklub · Danmarksturneringen 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="crest">HG</div>
+    <div class="hero-text">
+      <p class="eyebrow">Danmarksturneringen 2026</p>
+      <h1>Harekær Golfklub</h1>
+      <p class="sub">Pointoversigt for alle hold &middot; sejr = 2 point &middot; delt kamp = 1 point &middot; nederlag = 0 point</p>
+    </div>
+  </div>
+  <div class="hero-stats" id="heroStats"></div>
+</header>
+
+<nav class="tabs" id="tabs"></nav>
+
+<main id="main"></main>
+
+<footer class="footer">
+  <p>Data hentet direkte fra GolfBox livescoring. Senest opdateret <span id="updated"></span>.</p>
+  <p class="footer-dim">Point beregnes pr. spiller: begge spillere i en foursome tildeles kampens fulde pointværdi. Single og foursome vægter ens.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
